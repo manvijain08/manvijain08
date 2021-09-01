@@ -31,7 +31,7 @@
 
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://www.pngmart.com/files/7/Python-PNG-File.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://cdn.freebiesupply.com/logos/thumbs/2x/mongodb-logo.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
