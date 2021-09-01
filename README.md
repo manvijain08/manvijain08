@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-## 🎈Here are some technologies I use :
+## 🎈Technologies on which I'm working on:
 
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
@@ -46,14 +46,14 @@
 <br/>
 <br/>
 
-### ⚡ Github Stats
+### ⚡ Github figures
 
-<a href="https://github.com/mihirverma7781/7781">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirverma7781&show_icons=true&theme=tokyonight" alt="Mihir's GitHub Stats" />
+<a href="https://github.com/manvijain08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirverma7781&show_icons=true&theme=tokyonight" alt="manvi's GitHub Stats" />
 </a>
 
 ### 👨‍💻 Total Visitors 
 
-<img src="https://profile-counter.glitch.me/mihirverma7781/count.svg" /><br>
+<img src="https://profile-counter.glitch.me/manvijain08/count.svg" /><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mihirv7781)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/manvijain08)
