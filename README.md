@@ -49,11 +49,11 @@
 ### ⚡ Github figures
 
 <a href="https://github.com/manvijain08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirverma7781&show_icons=true&theme=tokyonight" alt="manvi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvijain08&show_icons=true&theme=tokyonight" alt="manvi's GitHub Stats" />
 </a>
 
 ### 👨‍💻 Total Visitors 
 
 <img src="https://profile-counter.glitch.me/manvijain08/count.svg" /><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/manvijain08)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manvijain08&layout=compact)](https://github.com/manvijain08)
