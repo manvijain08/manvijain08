@@ -33,6 +33,7 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://www.pngmart.com/files/7/Python-PNG-File.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://cdn.freebiesupply.com/logos/thumbs/2x/mongodb-logo.png"></code> &nbsp;&nbsp;
+   <code><img height="75" src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
