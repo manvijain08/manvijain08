@@ -4,11 +4,11 @@
 
 ## Hi there 👋
 
-- 💎 Currently working on ReactJS.
-- 🎲 Learning technologies to become FUll-STack developer.
-- 💡 Let's get in touch and collaborate on any project idea.
-- 💌 <a href="mailto:manvijain0888@gmail.com">manvijain0888@gmail.com</a>
-<br/>
+💎 Currently working on ReactJS.
+🎲 Learning technologies to become FUll-STack developer.
+💡 Let's get in touch and collaborate on any project idea.
+💌 <a href="mailto:manvijain0888@gmail.com">manvijain0888@gmail.com</a>
+
 
 
 ## 🎈Technologies on which I'm working on:
