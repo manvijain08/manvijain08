@@ -13,7 +13,7 @@
 
  ## 🧨I create user experiences that are:
 
-<img align="right" alt="Person coding gif" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif" width="200" />
+<img align="right" alt="Person coding gif" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" width="200" />
 
 - **Responsive ✅**
 - **Intuitive 🤩**
