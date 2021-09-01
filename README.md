@@ -9,23 +9,7 @@
 - 💡 Let's get in touch and collaborate on any project idea.
 - 💌 <a href="mailto:manvijain0888@gmail.com">manvijain0888@gmail.com</a>
 <br/>
-<br/>
 
- ## 🧨I create user experiences that are:
-
-<img align="right" alt="Person coding gif" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" width="200" />
-
-- **Responsive ✅**
-- **Intuitive 🤩**
-- **Dynamic 🧬**
-- **Reusable ♻️**
-- **Secure 🛡️**
-- **Load blazing fast 🚀**
-- **Optimized 🔍**
-- **Crafted with good code ✨**
-
-<br/>
-<br/>
 
 ## 🎈Technologies on which I'm working on:
 
@@ -49,7 +33,7 @@
 ### ⚡ Github figures
 
 <a href="https://github.com/manvijain08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvijain08&show_icons=true&theme=tokyonight" alt="manvi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvijain08&show_icons=true&theme=tokyonight" alt="manvi's GitHub figures" />
 </a>
 
 ### 👨‍💻 Total Visitors 
