@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-- 💎 Currently working on ReactJS.
+- 💎 Currently working on MERN Stack.
 - 🎲 Learning technologies to become FULL-STACk developer.
 - 💡 Let's get in touch and collaborate on any project idea.
 - 💌 <a href="mailto:manvijain0888@gmail.com">manvijain0888@gmail.com</a>
